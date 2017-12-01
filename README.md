@@ -2,7 +2,6 @@
 
 This is my Camera Effects Project. 
 
-
-![picture_title](picture filename?raw=true "Optional Title")
+![bryansnippet](https://github.com/bryanpatricio/bryanpatricio.github.io/blob/master/bryansnippet.PNG?raw=true "Optional Title")
 
 ***
